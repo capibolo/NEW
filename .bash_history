@@ -1,0 +1,135 @@
+sudo apt-get install maven
+sudo apt-get update
+sudo apt-get install openjdk-8-jdk
+sudo apt-get install git maven
+sudo apt-get install update
+sudo apt-get install jenkins
+apt install jenkins
+sudo apt-get install jenkins
+sudo apt-get install update
+sudo apt-get install jenkins
+apt update
+apt list --upgradable
+apt update
+apt install xxd
+apt list --upgradable
+apt install vim
+apt list --upgradable
+apt install ufw
+apt list --upgradable
+apt install ubuntu-advantage-tools
+apt list --upgradable
+apt update
+apt upgrade
+apt update
+apt list --upgradable
+sudo apt-get install jenkins
+cat /var/lib/jenkins/secrets/initialAdminPassword
+apt update
+cat /var/lib/jenkins/secrets/initialAdminPassword
+git add
+ll
+cat total 28,
+git status
+vim books
+cat book
+cat books
+git status
+git init
+touch books
+git init
+touch books
+git status
+git vim books
+var books
+vim books
+git add books
+git commit m" my first commit"
+git commit m "my first commit" 
+git commit
+git remote add origin https://github.com/capibolo/NEW.git
+git branch -M main
+git push -u origin main
+-----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAm/2LD0/8wBNOKRodp1wAEY7snk7d9GBG9DjkRtXpWk0tXMmJ
+bXCPifJ594gXY1fBxFJOlGp3bbl7Yq3h01jcFldyGylWx4YHU1VXoqbKrohzTpV6
+g+s5Ui2LEKFyPF3EbcM5FrG2AEGdX/MkaOeqw9rp4M/THnM23LrLvjEMfjJ06uHo
+wf5+35nzZgVJ2phchUfdd2DJlj2M0PNnKEvJSAX+EPtFkguSpJNkaNci9tV6i323
+Ak4M8+0YOohyOwHkeAgbLAxTXrKubSlGI+qg/RL5uKWMnQ78TB9zsBC2qR9FdA8d
+Eo1YTRtlp9ItLh7g49tsKfYXHjTnQRl4HxKuwwIDAQABAoIBABksQVSnQ9J7SxG2
+9TIc1qX+upCRiZ/2KX0f8Ta9Lns0GS3wGA1hLMjGKIiZnayabNqRrbylscAzPoYe
+KWNB48J3OiLH+QkZx/TawNmusOaZfoIf/TVssENith5o71Zui1RrPLs80nIYJJ1n
+T2jeeeBBY5yz7Q3s6d2VB2wZ3jo/CPf6ecdV48aIvIlraQcWmbhiyrDUKgwa9EvJ
+1dYH5fQCsFxn41zxutb8tvsSmoTJq6zkHG6h9DLY5APWdpLkukC+/cWNHeYdziMQ
+11WwFfqEbmU+AcnimIfLAU0RDIA1xIOxbSurdnDO5P/BuGw7KbPnQELCzn4Aw8Aj
+wNIVDwECgYEA6XDD+PBosm1ssqJ9P7D31c3mCUYxHEJha3PDNZovox95CdbOiP1d
+nkLyLV5wQvJUUGj3MFQIed5rWcykMhPJCozBEXZ7xjFxRKJ8jmiZMzunYxcQBj1/
+3sjk0t0CLRB7CUzOfcarFn3Dnq6jfT7ZD7/koKnya8Gxc49d6d7dTvkCgYEAqxCw
+rYxEleylPTnZsvYgUCH4zFvQ6iA6nq7zvJifJqUMp5C6fbj2MJaBgZl3x9OatvNH
+8kgQ1ZT/D3PVqzTkGnbduvqgWNBo0GcqVfnhOA12/c3Si/3a9054wxkZiZDXPj+C
+Db6zV/nQ2+t26bDU+Kq38+xhwEFryOBp0FYkTpsCgYEAgrTQFdfOV3Frdk4C4SGe
+cwk5byHtJ4yHbZnAyIePer+JjxfGRu/Odmm3ne2N3/49dVSAa3/xywLdisdJfHyV
+iaGsDLIRtbRDXpG4OiiY9xXEsHfeUhAnQ7+qV+LFcCQVL+zghY4yh4JdgMD564vA
+D9B7G/ZsNSebyz+P7v4JXkkCgYBYkHmIQFi57hzWh/7nonm0QwJWeyq8LBdtVFKo
+T7QGA+l7T3jd4kbDfQhrmpLjB/DPy0BydVER4uPykhwLWYTHFsdRKLSfhrbdPqwy
+ev5ZUM9MM6VQCQu2ghAPog0QpcZqWeLxTsv3PkUdttiHwJ9iZrB6PuWU7cnp5BWk
+YRTHBQKBgGF1CiaoRO9OvXWSXxH0lrSQqamzCotPyryYdjyfpAKhw6fCwyZdZ4Px
+mzKq+NslKQW5cfaWb8+xh9IT/gj/52C+VjvnyM7/ZAqeCorpC02QModIalYuCY1s
+ER1SJuWWYfB5Ri2gvDCE20NMwtR6bG4bYL5ItqGNB5mn/dMHZseL
+-----END RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAm/2LD0/8wBNOKRodp1wAEY7snk7d9GBG9DjkRtXpWk0tXMmJ
+bXCPifJ594gXY1fBxFJOlGp3bbl7Yq3h01jcFldyGylWx4YHU1VXoqbKrohzTpV6
+g+s5Ui2LEKFyPF3EbcM5FrG2AEGdX/MkaOeqw9rp4M/THnM23LrLvjEMfjJ06uHo
+wf5+35nzZgVJ2phchUfdd2DJlj2M0PNnKEvJSAX+EPtFkguSpJNkaNci9tV6i323
+Ak4M8+0YOohyOwHkeAgbLAxTXrKubSlGI+qg/RL5uKWMnQ78TB9zsBC2qR9FdA8d
+Eo1YTRtlp9ItLh7g49tsKfYXHjTnQRl4HxKuwwIDAQABAoIBABksQVSnQ9J7SxG2
+9TIc1qX+upCRiZ/2KX0f8Ta9Lns0GS3wGA1hLMjGKIiZnayabNqRrbylscAzPoYe
+KWNB48J3OiLH+QkZx/TawNmusOaZfoIf/TVssENith5o71Zui1RrPLs80nIYJJ1n
+T2jeeeBBY5yz7Q3s6d2VB2wZ3jo/CPf6ecdV48aIvIlraQcWmbhiyrDUKgwa9EvJ
+1dYH5fQCsFxn41zxutb8tvsSmoTJq6zkHG6h9DLY5APWdpLkukC+/cWNHeYdziMQ
+11WwFfqEbmU+AcnimIfLAU0RDIA1xIOxbSurdnDO5P/BuGw7KbPnQELCzn4Aw8Aj
+wNIVDwECgYEA6XDD+PBosm1ssqJ9P7D31c3mCUYxHEJha3PDNZovox95CdbOiP1d
+nkLyLV5wQvJUUGj3MFQIed5rWcykMhPJCozBEXZ7xjFxRKJ8jmiZMzunYxcQBj1/
+3sjk0t0CLRB7CUzOfcarFn3Dnq6jfT7ZD7/koKnya8Gxc49d6d7dTvkCgYEAqxCw
+rYxEleylPTnZsvYgUCH4zFvQ6iA6nq7zvJifJqUMp5C6fbj2MJaBgZl3x9OatvNH
+8kgQ1ZT/D3PVqzTkGnbduvqgWNBo0GcqVfnhOA12/c3Si/3a9054wxkZiZDXPj+C
+Db6zV/nQ2+t26bDU+Kq38+xhwEFryOBp0FYkTpsCgYEAgrTQFdfOV3Frdk4C4SGe
+cwk5byHtJ4yHbZnAyIePer+JjxfGRu/Odmm3ne2N3/49dVSAa3/xywLdisdJfHyV
+iaGsDLIRtbRDXpG4OiiY9xXEsHfeUhAnQ7+qV+LFcCQVL+zghY4yh4JdgMD564vA
+D9B7G/ZsNSebyz+P7v4JXkkCgYBYkHmIQFi57hzWh/7nonm0QwJWeyq8LBdtVFKo
+T7QGA+l7T3jd4kbDfQhrmpLjB/DPy0BydVER4uPykhwLWYTHFsdRKLSfhrbdPqwy
+ev5ZUM9MM6VQCQu2ghAPog0QpcZqWeLxTsv3PkUdttiHwJ9iZrB6PuWU7cnp5BWk
+YRTHBQKBgGF1CiaoRO9OvXWSXxH0lrSQqamzCotPyryYdjyfpAKhw6fCwyZdZ4Px
+mzKq+NslKQW5cfaWb8+xh9IT/gj/52C+VjvnyM7/ZAqeCorpC02QModIalYuCY1s
+ER1SJuWWYfB5Ri2gvDCE20NMwtR6bG4bYL5ItqGNB5mn/dMHZseL
+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
+git remote add origin https://github.com/capibolo/NEW.git
+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
+git remote add origin https://github.com/capibolo/NEW.git
+git push -u origin main
+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
+git push
+git push --set-upstream origin main
+apt update
+git push --set-upstream origin main
+apt github update
+ll
+apt list --upgradable
+apt upgrade
+clear
+apt upgrade
+apt list --upgradable
+apt update
+apt list --upgradable
+apt update
+java -version
+jenkins -version
+ll
+ls -a
+history
+ls
+cat snap
+cd snap
+cd
+git clone README.md
+git clone https://github.com/capibolo/capibolo/blob/6e55d67c4a080ff3dcb37d56508b512be0f00ae3/README.md
